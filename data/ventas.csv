@@ -1,0 +1,7 @@
+order_id,user_id,fecha,total,producto
+1,101,2024-01-01,200,teclado
+2,102,2024-01-03,500,monitor
+3,101,2024-01-10,150,mouse
+4,103,2024-02-01,700,laptop
+5,102,2024-02-05,300,audifonos
+6,101,2024-02-10,400,teclado
